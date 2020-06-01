@@ -1,0 +1,213 @@
+#h1 {
+    font-size: 25%;
+}
+
+header {
+    padding: 200px;
+    color: #002db3;
+    text-align: right;
+    display: block;
+    font-size: 30em;
+    font-weight: bold;
+    background-image: url("images/picture_title.jpg");
+    background-size: cover;
+    text-size-adjust: 30%;
+}
+
+
+/* #navbarMenu a {
+    float: left;
+    display: block;
+    color: #0000ff;
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.content {
+    padding: 5px;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+}
+
+.sticky+.content {
+    padding-top: 60px;
+} */
+
+.navbar_items {
+    font-size: 220%;
+    color: #002db3;
+    width: 100%;
+    height: 65px;
+    display: flex;
+    justify-content: space-around;
+    align-items: right;
+    position: absolute;
+    text-align: right;
+}
+
+body {
+    background-image: url("images/picture5.jpg");
+    background-size: cover;
+}
+
+#picture1 {
+    border: 20px solid darkblue;
+    border-radius: 5px;
+    padding: 10px;
+    float: right;
+}
+
+#picture2 {
+    border: 20px solid darkblue;
+    border-radius: 5px;
+    padding: 10px;
+    float: left;
+}
+
+#picture3 {
+    border: 20px solid darkblue;
+    border-radius: 5px;
+    padding: 10px;
+    float: right;
+}
+
+#team_img {
+    border: 10px solid darkblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: -150px;
+    /* opacity: 0.6; /* opacity/transparenta(0-1) */
+}
+
+#first_art {
+    font-size: larger;
+    line-height: 200%;
+}
+
+h3 {
+    text-align: center;
+    color: darkblue;
+}
+
+#second_art {
+    color: darkgreen;
+    font-weight: bold;
+}
+
+#third_art {
+    text-align: center;
+    font-size: 100px;
+    line-height: 100px;
+    line-break: loose;
+    padding: 50px;
+}
+
+#icons {
+    line-height: 300%;
+    text-align: center;
+}
+
+#list1 {
+    text-align: center;
+    color: darkgreen;
+    line-height: 55px;
+    font-size: 7mm;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: arial, sans-serif;
+}
+
+th {
+    border: 1px solid #dddddd;
+}
+
+tr {
+    background-color: white;
+}
+
+#list2 {
+    text-align: center;
+    color: darkblue;
+    font-size: 10mm;
+    line-height: 300px;
+    padding: 30mm;
+}
+
+#a {
+    line-height: 300%;
+}
+
+h2 {
+    line-height: 300%;
+    text-align: center;
+    padding: 10px;
+    color: darkblue;
+}
+
+#div3 {
+    text-align: center;
+    padding: 50px;
+    line-height: 20px;
+}
+
+#div4 {
+    text-align: center;
+}
+
+#div5 {
+    font-size: 3mm;
+}
+
+#p1 {
+    line-height: 100px;
+}
+
+footer {
+    background-color: rgb(25, 25, 112);
+    text-shadow: white;
+    font-size: 150%;
+    text-align: center;
+    color: white;
+    padding: 40px;
+}
+
+
+/* arrow */
+
+.arrow {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    cursor: pointer;
+    background: white;
+    border-radius: 50%;
+}
+
+#angle {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
+/* .arrow img {
+    width: 20px;
+    height: 20px;
+    z-index: 1;
+} */
+
+
+/* imaginea ii in app.html
+
+
+/*nu suporta libraria de la bootstrap
